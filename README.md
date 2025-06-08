@@ -1,7 +1,3 @@
-Happy y Unhappy Paths del Proyecto Sprint 2
-Historia de Usuario: Asistente Chatbot con IA
-Como usuario de la plataforma, quiero poder interactuar con un chatbot en la página principal para obtener respuestas rápidas a mis preguntas comunes (ej. "¿cómo puedo publicar?"), para que pueda resolver mis dudas de manera eficiente sin tener que buscar en todo el sitio.
-
 # Happy Path
 Apertura de la ventana del chatbot
 
